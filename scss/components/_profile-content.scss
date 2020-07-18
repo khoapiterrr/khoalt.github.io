@@ -1,0 +1,7 @@
+.profile-content {
+  @include respond(tablets) {
+    & {
+      width: 100%;
+    }
+  }
+}
