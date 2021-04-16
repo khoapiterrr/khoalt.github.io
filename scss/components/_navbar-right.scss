@@ -11,6 +11,7 @@
   font-size: 14px;
   color: white;
   z-index: 22;
+  overflow: auto;
 
   &-hidden {
     transform: translateX(120%);
